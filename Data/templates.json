@@ -1,0 +1,4 @@
+{
+  "welcome": "Hello {name}, welcome to {company}!",
+  "offer": "Hi {name}, we have an exclusive offer for {company}."
+}
